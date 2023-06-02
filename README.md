@@ -13,3 +13,5 @@ Le projet se découpe en 3 repositories :
 
 ## Architecture
 
+![Architecture globale de l'application](https://github.com/S0Imyr/IA-Projet9/blob/master/Architecture.drawio.png)
+)
