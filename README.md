@@ -8,8 +8,8 @@ Cette application fait appel à une azure Function qui contient la logique des m
 ## Repositories
 Le projet se découpe en 3 repositories :
   - ce repo : les notebooks avec les Systèmes de recommandations
-  - un repository de l'azure function :
-  - un repository de l'application web :
+  - [l'azure function](https://github.com/S0Imyr/IA-P9-AzureFunction)
+  - [l'application web](https://github.com/S0Imyr/IA-P9-WebApp)
 
 ## Architecture
 
